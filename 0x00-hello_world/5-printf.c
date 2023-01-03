@@ -2,7 +2,7 @@
 /**
  * main - A program that prints with proper grammar,
  * but the outcome is a piece of art using Printf
- * return: 0 (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
