@@ -1,6 +1,7 @@
 #include <stdio.h>
-/**
- * main - entry point
+/*
+ * main - A c program where entry point begins
+ *
  * Return: Always 0 (Succcess)
  */
 int main(void)
