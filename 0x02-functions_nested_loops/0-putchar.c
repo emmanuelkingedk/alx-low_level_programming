@@ -1,6 +1,6 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
+	 * main - print _putchar in the right order
 	 * is written by mbah
 	 * Return: 0
 	 */
