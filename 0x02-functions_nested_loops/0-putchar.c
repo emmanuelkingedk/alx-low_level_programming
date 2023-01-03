@@ -2,6 +2,7 @@
 	/**
 	 * main - print _putchar in the right order
 	 * is written by mbah
+	 * Description - this describes the file
 	 * Return: 0
 	 */
 
